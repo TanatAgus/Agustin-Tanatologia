@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tanatología | Lic. Agustín Saldaña</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f5f7f6;
+      color: #333;
+    }
+    header {
+      background-color: #6c8f88;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #6c8f88;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      margin: 15px 0;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #6c8f88;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body><header>
+  <h1>Lic. Agustín Saldaña</h1>
+  <p>Acompañamiento cálido en procesos de duelo</p>
+</header><section>
+  <h2>Sobre mí</h2>
+  <p>
+    Soy el Lic. Agustín Saldaña, tanatólogo. Ofrezco un acompañamiento cálido y humano,
+    basado en la empatía y la escucha atenta. Estoy aquí para brindarte un espacio seguro,
+    donde puedas transitar tu proceso sin prisa y sin juicios.
+  </p>
+</section><section>
+  <h2>Servicios</h2>
+  <div class="card">
+    <p>
+      Acompañamiento integral durante todo el proceso de duelo, adaptado a tus necesidades:
+    </p>
+    <ul>
+      <li>Atención en consultorio</li>
+      <li>Atención a domicilio</li>
+      <li>Acompañamiento vía telefónica</li>
+    </ul>
+    <p>
+      Cada proceso es único, por lo que el acompañamiento se ajusta a tu ritmo, siempre en un ambiente de respeto y confianza.
+    </p>
+  </div>
+</section><section>
+  <h2>Testimonios</h2>
+  <div class="card">
+    <p>“Demasiado, Agus. Muchas gracias por todo tu acompañamiento. Que tengas un excelente día.”</p>
+  </div>
+  <div class="card">
+    <p>“Gracias, Agus. De verdad me sirvió muchísimo poder expresar todo lo que tenía. Gracias por el acompañamiento… cuando esté más tranquila, veré el video. 🫂”</p>
+  </div>
+</section><section>
+  <h2>Contacto</h2>
+  <p><strong>Teléfono:</strong> (639) 130 3706</p>
+  <p><strong>Correo:</strong> tanat.as426@gmail.com</p>
+</section><footer>
+  <p>"No tienes que pasar por este proceso solo. Estoy aquí para acompañarte."</p>
+</footer></body>
+</html>
